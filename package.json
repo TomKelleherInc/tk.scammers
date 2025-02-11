@@ -1,5 +1,5 @@
 {
-  "name": "ZeroPoint",
+  "name": "tk.scammers",
   "version": "1.0.2",
   "description": "",
   "type": "module",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+project_urlname"
   },
-  "author": "MWDelaney",
+  "author": "TomKelleherInc",
   "license": "MIT",
   "browserslist": [
     "last 2 versions"

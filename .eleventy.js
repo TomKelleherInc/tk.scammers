@@ -1,4 +1,4 @@
-const siteName = "ZeroPoint";
+const siteName = "tk.scammers";
 
 /**
  * Wait! Before you edit this file!
