@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Up to zero! 🪐
+title: Up to zero! 🪐🪐🪐
 ---
 
 Get started:
