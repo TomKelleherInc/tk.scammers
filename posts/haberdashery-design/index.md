@@ -1,7 +1,7 @@
 ---
-title: That Toenail Thing
+title: Haberdashery Design
 date: 2025-02-17
-description: Give me a few minutes to crawl out of this and explain to the police.
+description: A long-haul trucker in Milwaukee named Cletus
 tags:
   - blessing-sam
 
@@ -23,3 +23,6 @@ opengraph:
 ![](./images/009.jpg)
 ![](./images/010.jpg)
 ![](./images/011.jpg)
+![](./images/012.jpg)
+![](./images/013.jpg)
+![](./images/100.jpg)

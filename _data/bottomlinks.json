@@ -1,8 +1,5 @@
 [
-  {
-    "link": "https://github.com/mendhak/eleventy-satisfactory",
-    "text": "⌨️ Github Repo"
-  },
+
   {
     "link": "https://11ty.dev",
     "text": "1️⃣ Eleventy"
@@ -10,9 +7,5 @@
   {
     "link": "https://simplecss.org/",
     "text": "📜 Simple.css"
-  },
-  {
-    "link": "/feed.xml",
-    "text": "🌐 Feed"
   }
 ]

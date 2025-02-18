@@ -1,6 +1,7 @@
 ---
 title: Post with image galleries
 description: This post contains an image gallery in Markdown as well as shortcodes.
+date: 2018-07-04
 tags:
   - eleventy
   - markdown

@@ -1,7 +1,7 @@
 ---
-title: Hello, I'm Diana
+title: Mercury was in Retrograde
 date: 2025-02-17
-description: Sparks from the open pit tin mine
+description: Powerwash the spinach from your teeth
 tags:
   - diana
 
@@ -16,5 +16,4 @@ opengraph:
 ![](./images/002.jpg)
 ![](./images/003.jpg)
 ![](./images/004.jpg)
-![](./images/005.png)
-![](./images/006.jpg)
+![](./images/005.jpg)
