@@ -1,5 +1,6 @@
 ---
 title: Hello, I'm Diana
+date: 2025-02-17
 description: Oh, the zinc mine!
 tags:
   - diana
