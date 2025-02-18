@@ -1,0 +1,51 @@
+{
+  "name": "eleventy-satisfactory",
+  "version": "1.0.0",
+  "description": "My simplified opinionated eleventy theme, the focus is on content first, and less on other things.",
+  "homepage": "https://code.mendhak.com/eleventy-satisfactory/",
+  "bugs": {
+    "url": "https://github.com/mendhak/eleventy-satisfactory/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mendhak/eleventy-satisfactory.git"
+  },
+  "license": "MIT",
+  "author": "mendhak <mendhak@users.noreply.github.com> (https://code.mendhak.com/)",
+  "type": "module",
+  "main": ".eleventy.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "start": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
+    "debug": "DEBUG=* npx @11ty/eleventy",
+    "pretest": "playwright install",
+    "test": "playwright test --headed",
+    "stop": "kill -9 $(lsof -t -i :8080)"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^3.0.0",
+    "@11ty/eleventy-img": "^6.0.1",
+    "@11ty/eleventy-plugin-rss": "^2.0.3",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^5.0.0",
+    "clean-css": "^5.3.3",
+    "dotenv": "^16.4.7",
+    "luxon": "^3.4.4",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^9.0.1",
+    "prism-themes": "^1.9.0",
+    "simpledotcss": "2.1.1",
+    "simplelightbox": "^2.14.3"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.50.1",
+    "@types/node": "^22.13.1",
+    "cross-env": "^7.0.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
