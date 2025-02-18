@@ -10,4 +10,4 @@ tags:
 
 <h4>{{ description }}</h4>
 
-{% figure "./images/001.jpg", "", "", false %}
+{% figure "./images/001.jpg", "", "half", false %}

@@ -3,28 +3,26 @@ title: Haberdashery Design
 date: 2025-02-18
 description: A long-haul trucker in Milwaukee named Cletus
 tags:
-  - blessing-sam
+  - Haberdashery
 
-opengraph:
-  image: /assets/images/image001.jpg
 
 ---
 
 <h4>{{ description }}</h4>
 
-{% figure "./images/001.jpg", "", "", false %}
-{% figure "./images/002.jpg", "", "", false %}
-{% figure "./images/003.jpg", "", "", false %}
-{% figure "./images/004.jpg", "", "", false %}
-{% figure "./images/005.jpg", "", "", false %}
-{% figure "./images/006.jpg", "", "", false %}
-{% figure "./images/007.jpg", "", "", false %}
-{% figure "./images/008.jpg", "", "", false %}
-{% figure "./images/009.jpg", "", "", false %}
-{% figure "./images/010.jpg", "", "", false %}
-{% figure "./images/011.jpg", "", "", false %}
-{% figure "./images/012.jpg", "", "", false %}
-{% figure "./images/013.jpg", "", "", false %}
+{% figure "./images/001.jpg", "", "half", false %}
+{% figure "./images/002.jpg", "", "half", false %}
+{% figure "./images/003.jpg", "", "half", false %}
+{% figure "./images/004.jpg", "", "half", false %}
+{% figure "./images/005.jpg", "", "half", false %}
+{% figure "./images/006.jpg", "", "half", false %}
+{% figure "./images/007.jpg", "", "half", false %}
+{% figure "./images/008.jpg", "", "half", false %}
+{% figure "./images/009.jpg", "", "half", false %}
+{% figure "./images/010.jpg", "", "half", false %}
+{% figure "./images/011.jpg", "", "half", false %}
+{% figure "./images/012.jpg", "", "half", false %}
+{% figure "./images/013.jpg", "", "half", false %}
 
 So, I wanted to see what happens if you give a scammer a cookie.  So I gave them my actual phone number.  I didn't have a real plan...
 
