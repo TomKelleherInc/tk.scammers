@@ -1,7 +1,7 @@
 # 🪐tk.scammers
 
 <a href="https://github.com/TomKelleherInc/tk.scammers/generate">
-  <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge" alt="">
 </a>
 
 ---
@@ -55,7 +55,7 @@ Get started with tk.scammers one of the following ways:
 Start your project with tk.scammers by clicking the "Use this template" button below:
 
 <a href="https://github.com/TomKelleherInc/tk.scammers/generate">
-  <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge">
+  <img src="https://img.shields.io/badge/use%20this-template-blueviolet?logo=github&style=for-the-badge" alt="">
 </a>
  </details>
 
