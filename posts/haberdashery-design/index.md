@@ -1,6 +1,6 @@
 ---
 title: Haberdashery Design
-date: 2025-02-17
+date: 2025-02-18
 description: A long-haul trucker in Milwaukee named Cletus
 tags:
   - blessing-sam
@@ -12,17 +12,35 @@ opengraph:
 
 <h4>{{ description }}</h4>
 
-![](images/001.jpg)
-![](./images/002.jpg)
-![](./images/003.jpg)
-![](./images/004.jpg)
-![](./images/005.jpg)
-![](./images/006.jpg)
-![](./images/007.jpg)
-![](./images/008.jpg)
-![](./images/009.jpg)
-![](./images/010.jpg)
-![](./images/011.jpg)
-![](./images/012.jpg)
-![](./images/013.jpg)
-![](./images/100.jpg)
+{% figure "./images/001.jpg", "", "", false %}
+{% figure "./images/002.jpg", "", "", false %}
+{% figure "./images/003.jpg", "", "", false %}
+{% figure "./images/004.jpg", "", "", false %}
+{% figure "./images/005.jpg", "", "", false %}
+{% figure "./images/006.jpg", "", "", false %}
+{% figure "./images/007.jpg", "", "", false %}
+{% figure "./images/008.jpg", "", "", false %}
+{% figure "./images/009.jpg", "", "", false %}
+{% figure "./images/010.jpg", "", "", false %}
+{% figure "./images/011.jpg", "", "", false %}
+{% figure "./images/012.jpg", "", "", false %}
+{% figure "./images/013.jpg", "", "", false %}
+
+So, I wanted to see what happens if you give a scammer a cookie.  So I gave them my actual phone number.  I didn't have a real plan...
+
+...but inspiration came!  Because their profile had this little double-heart emoji.
+
+{% figure "./images/014.jpg", "", "", false %}
+
+I have my plan!  The fun continues!
+
+{% figure "./images/015.jpg", "", "half", false %}
+
+Then, back over to LinkedIn a few hours later...
+
+{% figure "./images/100.jpg", "", "half", false %}
+
+Margarida Gomes is another scammer, of course, and I gave Margarida Susan's number.
+
+I hope they had a good talk.
+

@@ -12,9 +12,10 @@ opengraph:
 
 <h4>{{ description }}</h4>
 
-![](images/001.jpg)
-![](./images/002.jpg)
-![](./images/003.jpg)
-![](./images/004.jpg)
-![](./images/005.png)
-![](./images/006.jpg)
+{% figure "./images/001.jpg", "", "", false %}
+{% figure "./images/002.jpg", "", "", false %}
+{% figure "./images/003.jpg", "", "", false %}
+{% figure "./images/004.jpg", "", "", false %}
+{% figure "./images/005.jpg", "", "", false %}
+{% figure "./images/006.jpg", "", "", false %}
+

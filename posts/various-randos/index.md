@@ -1,6 +1,6 @@
 ---
 title: Some Quickies with Randos
-date: 2025-02-16
+date: 2025-02-18
 description: (A smattering of brief encounters)
 tags:
   - diana
@@ -12,40 +12,47 @@ opengraph:
 
 <h4>{{ description }}</h4>
 
-![](images/blameless.jpg)
+{% figure "./images/nj-foods.jpg", "", "", false %}
 
 <hr />
 
-![](./images/Gesundheit.jpg)
+{% figure "./images/you-too-wu.jpg", "", "", false %}
 
 <hr />
 
-![](./images/cabbage.jpg)
+{% figure "./images/blameless.jpg", "", "", false %}
 
 <hr />
 
-![](./images/carbon-based.jpg)
+{% figure "./images/Gesundheit.jpg", "", "", false %}
 
 <hr />
 
-![](./images/hello-hello.jpg)
+{% figure "./images/cabbage.jpg", "", "", false %}
 
 <hr />
 
-![](./images/how-are-you-001.jpg)
-![](./images/how-are-you-002.jpg)
-![](./images/how-are-you-003.jpg)
-![](./images/how-are-you-004.jpg)
+{% figure "./images/carbon-based.jpg", "", "", false %}
 
 <hr />
 
-![](./images/pvc-piping.jpg)
+{% figure "./images/hello-hello.jpg", "", "", false %}
 
 <hr />
 
-![](./images/lug-nuts.jpg)
+{% figure "./images/how-are-you-001.jpg", "", "", false %}
+{% figure "./images/how-are-you-002.jpg", "", "", false %}
+{% figure "./images/how-are-you-003.jpg", "", "", false %}
+{% figure "./images/how-are-you-004.jpg", "", "", false %}
 
 <hr />
 
-![](./images/recommend-001.jpg)
-![](./images/recommend-002.jpg)
+{% figure "./images/pvc-piping.jpg", "", "", false %}
+
+<hr />
+
+{% figure "./images/lug-nuts.jpg", "", "", false %}
+
+<hr />
+{% figure "./images/recommend-001.jpg", "", "", false %}
+{% figure "./images/recommend-002.jpg", "", "", false %}
