@@ -32,11 +32,11 @@ So, I wanted to see what happens if you give a scammer a cookie.  So I gave them
 
 I have my plan!  The fun continues!
 
-{% figure "./images/015.jpg", "", "half", false %}
+{% figure "./images/015.jpg", "", "", false %}
 
 Then, back over to LinkedIn a few hours later...
 
-{% figure "./images/100.jpg", "", "half", false %}
+{% figure "./images/100.jpg", "", "", false %}
 
 Margarida Gomes is another scammer, of course, and I gave Margarida Susan's number.
 
