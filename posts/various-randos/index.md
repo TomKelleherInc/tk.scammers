@@ -1,5 +1,5 @@
 ---
-title: Some Quickies with Randos
+title: Various Randos
 date: 2025-02-18
 description: (A smattering of brief encounters)
 tags:

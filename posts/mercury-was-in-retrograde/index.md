@@ -12,8 +12,8 @@ opengraph:
 
 <h4>{{ description }}</h4>
 
-{% figure "./images/001.jpg", "", "half", false %}
-{% figure "./images/002.jpg", "", "half", false %}
-{% figure "./images/003.jpg", "", "half", false %}
-{% figure "./images/004.jpg", "", "half", false %}
-{% figure "./images/005.jpg", "", "half", false %}
+{% figure "./images/001.jpg", "", "", false %}
+{% figure "./images/002.jpg", "", "", false %}
+{% figure "./images/003.jpg", "", "", false %}
+{% figure "./images/004.jpg", "", "", false %}
+{% figure "./images/005.jpg", "", "", false %}
