@@ -1,5 +1,5 @@
 ---
-title: Various Randos
+title: Various Randos \#1
 date: 2025-02-18
 description: (A smattering of brief encounters)
 tags:
@@ -13,10 +13,6 @@ opengraph:
 <h4>{{ description }}</h4>
 
 {% figure "./images/nj-foods.jpg", "", "", false %}
-
-<hr />
-
-{% figure "./images/you-too-wu.jpg", "", "", false %}
 
 <hr />
 
