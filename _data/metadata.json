@@ -1,12 +1,12 @@
 {
   "title": "Scambits",
-  "url": "https://@11ty/eleventy/",
+  "url": "https://scambits.com",
   "pathPrefix": "/",
   "language": "en",
-  "paginationSize": 10,
+  "paginationSize": 12,
   "favicon": "/assets/images/favicon.png",
   "description": "My conversations with scammers",
-  "tags": ["scammer", "scambits", "scambles"],
+  "tags": ["scammer", "scambits", "scambles", "kelleher", "tom kelleher", "tkellher.com"],
   "feed": {
     "path": "/feed.xml"
   },
@@ -15,8 +15,8 @@
   },
   "author": {
     "name": "kelleher",
-    "email": "",
-    "url": "https://github.com/mendhak/eleventy-satisfactory"
+    "email": "scambits@tkelleher.com",
+    "url": "https://github.com/tomkelleherinc"
   },
   "opengraph": {
     "image": "/assets/images/article.png",
