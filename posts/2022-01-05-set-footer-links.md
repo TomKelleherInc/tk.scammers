@@ -1,5 +1,5 @@
 ---
-title: Set footer images and links
+title: --Set footer images and links
 extraWideMedia: false
 ---
 

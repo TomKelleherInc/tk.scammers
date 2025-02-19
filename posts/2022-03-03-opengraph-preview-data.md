@@ -1,5 +1,5 @@
 ---
-title: How to set Opengraph preview image and metadata
+title: --How to set Opengraph preview image and metadata
 description: Instructions on setting up various Opengraph headers
 tags:
   - opengraph

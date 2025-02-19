@@ -1,5 +1,5 @@
 ---
-title: Post with notices or alert boxes
+title: --Post with notices or alert boxes
 description: I want to display what notice boxes would look like.
 tags:
  - notice

@@ -1,5 +1,5 @@
 ---
-title: About extra-wide images, videos and code blocks
+title: --About extra-wide images, videos and code blocks
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Set up the metadata.json 
+title: --Set up the metadata.json 
 description: Setting up and configuring this theme. 
 ---
 
