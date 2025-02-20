@@ -11,8 +11,9 @@
 /* Change some colors for dark mode */
 @media (prefers-color-scheme: dark) {
 :root {
-  --bg: #333333;
-  --accent: #fedb8b;
+  --bg: #00101c;
+  --accent: #c2f3ff;
+  --accent-bg: #03395f;
 }
 }
 
