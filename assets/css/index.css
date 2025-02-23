@@ -4,7 +4,7 @@
 
 :root {
   /* Set sans-serif & mono fonts */
-  --sans-font: Roboto,"Nimbus Sans L","Avenir Next",Avenir,"Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
+  --sans-font: "Tahoma",Roboto,"Nimbus Sans L","Avenir Next",Avenir,"Segoe UI",Arial,Helvetica,"Helvetica Neue",sans-serif;
   --mono-font: "Ubuntu Mono", Consolas, Menlo, Monaco, "Andale Mono",  monospace;
 }
 

@@ -18,10 +18,14 @@
     "test": "tests"
   },
   "scripts": {
+
+    "start": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
+    "dev": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
+    "serve": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
+
     "build": "npx @11ty/eleventy",
     "production": "npx @11ty/eleventy",
     "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
-    "start": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
     "debug": "DEBUG=* npx @11ty/eleventy",
     "pretest": "playwright install",
     "test": "playwright test --headed",
