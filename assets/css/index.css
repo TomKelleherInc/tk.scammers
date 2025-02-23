@@ -107,9 +107,16 @@ footer li {
 /* Styling for the excerpts appear below article titles on the index page */
 .excerpt {
   font-size: 1.2rem;
-  padding-bottom: 1.2rem;
   font-style: italic;
   color: darkgrey;
+}
+
+/* Styling for the excerpts appear below article titles on the index page */
+.indexPageDate {
+  font-size: 1rem;
+  padding-bottom: 1rem;
+  font-style: italic;
+  color: grey;
 }
 
 /* Styling for the article, which wraps the post body */

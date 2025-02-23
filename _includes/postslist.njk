@@ -3,6 +3,7 @@
 
     <h3><a href="{{ post.url }}" data-date="{{ post.date | htmlDateString }}" data-tags="{{ post.data.tags | filterTagList }}" >{% if post.data.title %}{{ post.data.title | markdown | safe }}{% else %}<code>{{ post.url }}</code>{% endif %}</a></h3>
     <div class="excerpt">"{% excerpt post %}"</div>
+    <div class="indexPageDate">{{ post.date | htmlDateString }}</div>
 
 
 {% endfor %}
