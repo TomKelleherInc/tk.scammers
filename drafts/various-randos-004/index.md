@@ -1,7 +1,7 @@
 ---
-title: Various Randos \#3
-date: 2025-02-24
-description: I'm always scared of shocks
+title: Various Randos \#4
+date: 2025-02-25
+description: The Lowly Comma
 tags:
   - 
 
