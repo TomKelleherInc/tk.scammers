@@ -34,8 +34,6 @@ She said she was a Board Member, and her job description was as inarticulate as 
 
 {% figure "./images/stable-support-001.png", "", "", false %}
 
-<hr />
-
 {% figure "./images/stable-support-002.png", "", "", false %}
 
 To clarify that last bit -- it seems that LinkedIn shuts down fake accounts by degrees, following the a,b,c plan I describe above.  This one was in the agonal stages.
