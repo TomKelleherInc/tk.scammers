@@ -23,10 +23,11 @@
     "dev": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
     "serve": "cross-env ELEVENTY_ENV=development npx @11ty/eleventy --serve --watch --incremental",
 
-    "build": "npx @11ty/eleventy",
-    "production": "npx @11ty/eleventy",
-    "bench": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
-    "debug": "DEBUG=* npx @11ty/eleventy",
+    "build": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy",
+    "production": "cross-env ELEVENTY_ENV=production npx @11ty/eleventy",
+
+    "bench": "cross-env ELEVENTY_ENV=development DEBUG=Eleventy:Benchmark* npx @11ty/eleventy",
+    "debug": "cross-env ELEVENTY_ENV=development DEBUG=* npx @11ty/eleventy",
     "pretest": "playwright install",
     "test": "playwright test --headed",
     "stop": "kill -9 $(lsof -t -i :8080)"
