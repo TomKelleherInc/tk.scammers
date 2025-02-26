@@ -70,11 +70,29 @@
   {% endif %}
 
   {% goatCounterScript %}
+
+  <script>
+      async function copyPageUrl() {
+        //alert(234)
+        try {
+          await navigator.clipboard.writeText(location.href);
+          console.log('Page URL copied to clipboard');
+          alert("Copied!")
+        } catch (err) {
+          console.error('Failed to copy: ', err);
+        }
+      }
+
+  </script>
+
 </head>
 
 <body>
   <header>
-    <a href="/">{{ metadata.title }}</a>
+    <div class="headerBox">
+      <a href="/">{{ metadata.title }}</a>
+      <span style="cursor: pointer;" onclick="copyPageUrl();">📋Copy link to this</span>
+      </div>
   </header>
   <main>
     <h1><a href="">{%- if title %}{{ title | markdown | safe }}{%- endif %}</a></h1>
