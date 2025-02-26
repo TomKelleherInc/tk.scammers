@@ -7,7 +7,7 @@ tags:
 
 ---
 
-<h4>{{ description }}</h4>
+<h4 class="subTitle">{{ description }}</h4>
 
 This is just some WhatsApp dialog with my family.  The players are:
 

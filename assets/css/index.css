@@ -98,7 +98,13 @@ h1,h2,h3,h4,h5,h6 {
   margin-bottom: 0.25em;
 }
 
-
+h4.subTitle {
+  margin-top: 0px;
+  margin-bottom: 4rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px grey solid;
+  font-style: italic;
+}
 
 /* This class is added by the markdown-it-anchor library. Removing the hyperlink color from headers */
 a.header-anchor {

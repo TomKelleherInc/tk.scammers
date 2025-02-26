@@ -8,6 +8,6 @@ tags:
 
 ---
 
-<h4>{{ description }}</h4>
+<h4 class="subTitle">{{ description }}</h4>
 
 {% figure "./images/001.jpg", "", "", false %}

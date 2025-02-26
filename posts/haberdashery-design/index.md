@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<h4>{{ description }}</h4>
+<h4 class="subTitle">{{ description }}</h4>
 
 {% figure "./images/001.jpg", "", "", false %}
 {% figure "./images/002.jpg", "", "", false %}
@@ -41,4 +41,6 @@ Then, back over to LinkedIn a few hours later...
 Margarida Gomes is another scammer, of course, and I gave Margarida Susan's number.
 
 I hope they had a good talk.
+
+[See where I steered Susan to Margarida](/i-call-it-velveeta/)
 

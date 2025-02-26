@@ -1,16 +1,16 @@
 ---
 title: That Toenail Thing
-date: 2025-02-17
+date: 2025-02-26
 description: Give me a few minutes to crawl out of this and explain to the police.
 tags:
-  - blessing-sam
+  - toenail
 
 opengraph:
   image: /assets/images/image001.jpg
 
 ---
 
-<h4>{{ description }}</h4>
+<h4 class="subTitle">{{ description }}</h4>
 
 {% figure "./images/001.jpg", "", "", false %}
 {% figure "./images/002.jpg", "", "", false %}

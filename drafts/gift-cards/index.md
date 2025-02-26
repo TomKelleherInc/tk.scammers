@@ -8,7 +8,7 @@ tags:
 
 ---
 
-<h4>{{ description }}</h4>
+<h4 class="subTitle">{{ description }}</h4>
 
   Okay, I have to admit I had never heard of the scam where your "boss" says 
   "I need you to go buy some gift cards for these clients I'm meeting with."
