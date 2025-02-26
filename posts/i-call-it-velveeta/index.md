@@ -5,8 +5,6 @@ description: I use "Tom" only to keep away the stalkers
 tags:
   - velveeta
 
-opengraph:
-  image: /assets/images/image001.jpg
 
 ---
 

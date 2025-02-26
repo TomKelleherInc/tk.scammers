@@ -3,10 +3,7 @@ title: Mercury was in Retrograde
 date: 2025-02-24
 description: Powerwash the spinach from your teeth
 tags:
-  - diana
-
-opengraph:
-  image: /assets/images/image001.jpg
+  - mercury
 
 ---
 

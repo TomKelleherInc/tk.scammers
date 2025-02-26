@@ -5,8 +5,6 @@ description: Sparks from the open pit tin mine
 tags:
   - diana
 
-opengraph:
-  image: /assets/images/image001.jpg
 
 ---
 
