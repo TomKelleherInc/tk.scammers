@@ -1,6 +1,6 @@
 ---
 title: Resplendent!
-date: 2025-02-18
+date: 2025-02-16
 description: Pets in the park bagged their own poop
 tags:
   - Resplendent

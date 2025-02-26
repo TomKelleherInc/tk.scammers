@@ -1,6 +1,6 @@
 
 function showDraft(data) {
-	return process.env.ELEVENTY_ENV === 'development';
+	return false; // process.env.ELEVENTY_ENV === 'development';
 }
 
 export default async function() {
