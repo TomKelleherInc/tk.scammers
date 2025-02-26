@@ -177,7 +177,7 @@ export default async function (eleventyConfig) {
   );
 
   eleventyConfig.addShortcode("goatCounterScript", () => {
-    if (process.env.ELEVENTY_ENV === "development")
+    if (process.env.ELEVENTY_ENV === "production")
       return '  <script data-goatcounter="https://scambits.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>';
     else return "<!-- no goatCounter script in dev -->";
   });
