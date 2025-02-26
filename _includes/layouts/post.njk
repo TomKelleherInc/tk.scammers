@@ -7,5 +7,7 @@ layout: layouts/base.njk
 {{ content | safe }}
 </article>
 
-<span style="cursor: pointer;" onclick="copyPageUrl();">📋Copy link to this </span>
+<div>
+  <span style="text-align: right" class="copyLink" onclick="copyPageUrl();">copy link </span>
+</div>
 <p><time datetime="{{ (last_modified_at or page.date) | htmlDateString }}">Updated: {{ (last_modified_at or page.date) | readableDate }}</time></p>

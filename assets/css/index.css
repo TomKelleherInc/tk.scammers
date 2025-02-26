@@ -37,6 +37,7 @@ body > header > div.headerBox {
   margin: 1rem auto;
   font-size: 1.5rem;
   display: flex;
+  align-items: center;
   font-weight: 700;
   color: var(--text) !important;
   font-family: 'Lora';
@@ -104,6 +105,12 @@ h4.subTitle {
   padding-bottom: 1rem;
   border-bottom: 1px grey solid;
   font-style: italic;
+}
+
+span.copyLink {
+  cursor: pointer;
+  font-size: 1.1rem !important;
+  vertical-align: center;
 }
 
 /* This class is added by the markdown-it-anchor library. Removing the hyperlink color from headers */
