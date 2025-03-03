@@ -47,8 +47,5 @@ opengraph:
 
 <hr />
 
-{% figure "./images/lug-nuts.jpg", "", "", false %}
-
-<hr />
 {% figure "./images/recommend-001.jpg", "", "", false %}
 {% figure "./images/recommend-002.jpg", "", "", false %}

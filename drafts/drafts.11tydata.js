@@ -1,6 +1,7 @@
 
 function showDraft(data) {
-	return false; // process.env.ELEVENTY_ENV === 'development';
+  //console.log(process.env.ELEVENTY_ENV);
+	return process.env.ELEVENTY_ENV !== 'development';
 }
 
 export default async function() {
