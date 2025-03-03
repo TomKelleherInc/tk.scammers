@@ -1,6 +1,5 @@
 ---
 title: Various Randos \#3
-date: 2025-02-24
 description: I'm always scared of shocks
 tags:
   - 

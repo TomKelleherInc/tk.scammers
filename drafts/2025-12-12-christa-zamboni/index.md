@@ -1,6 +1,5 @@
 ---
 title: Christa Zamboni
-date: 2025-02-21
 description: ...she took my children, my home...
 tags:
   - 

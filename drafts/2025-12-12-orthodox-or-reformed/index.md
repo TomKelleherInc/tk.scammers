@@ -1,6 +1,5 @@
 ---
 title: Orthodox or Reformed
-date: 2025-02-28
 description: burping his way through the early German Baroque masters
 tags:
   - 

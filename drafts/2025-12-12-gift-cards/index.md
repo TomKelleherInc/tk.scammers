@@ -1,6 +1,5 @@
 ---
 title: Athansor!
-date: 2025-02-20
 description: Oatmeal for dinner!  Ooooo, yummies!
 tags:
   - 

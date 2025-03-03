@@ -1,6 +1,5 @@
 ---
 title: Golly gosh, I'm great
-date: 2025-02-21
 description: I think it's called Self-Pugilism Syndrome
 tags:
   - 

@@ -1,6 +1,5 @@
 ---
 title: Evidence Available On Request
-date: 2025-02-27
 description: Or, swamp, to you and me
 tags:
   - 

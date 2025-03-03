@@ -1,6 +1,5 @@
 ---
 title: A Family Moment #1
-date: 2025-02-20
 description: Port-o-potty caught in a tornado.
 tags:
   - 

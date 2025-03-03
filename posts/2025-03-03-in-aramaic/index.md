@@ -1,6 +1,5 @@
 ---
 title: Spreak a message
-date: 2025-02-22
 description: Pursuing butter bandits thru the Croissant Valley
 tags:
   - diana
