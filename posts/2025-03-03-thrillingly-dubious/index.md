@@ -1,11 +1,8 @@
 ---
-title: Spreak a message
+title: Thrillingly dubious
 description: Pursuing butter bandits thru the Croissant Valley
 tags:
-  - diana
 
-opengraph:
-  image: /assets/images/image001.jpg
 
 ---
 
