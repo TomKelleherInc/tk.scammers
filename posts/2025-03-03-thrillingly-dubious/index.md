@@ -8,6 +8,12 @@ tags:
 
 <h4 class="subTitle">{{ description }}</h4>
 
+This one is kind of an historical artifact.  I'm learning my craft here.  It's the first time I've
+been redirected from LinkedIn to WhatsApp, and you can see I'm a little confused.  I suspect this
+is all crap, but it takes me a moment to calibrate my instruments, and lock in on the target.
+
+Right around the phrase "thrillingly dubious" I'm ready to rumble.
+
 {% figure "./images/001.jpg", "", "", false %}
 {% figure "./images/002.jpg", "", "", false %}
 {% figure "./images/003.jpg", "", "", false %}
@@ -19,7 +25,7 @@ So, first -- look at the resume I sent them.  Scan through it&mdash;but don't mi
 
 Also the technologies I used at each job.
 
-Also the final, final words.
+Also the final, final words bottom right.
 
 {% figure "./images/resume.jpg", "", "", false %}
 {% figure "./images/007.jpg", "", "", false %}
