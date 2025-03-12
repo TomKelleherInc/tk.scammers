@@ -1,6 +1,5 @@
 ---
 title: Lots of Ashtrays
-date: 2025-02-17
 description: No one ever went broke gambling on human gullibility
 tags:
   - ashtrays

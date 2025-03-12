@@ -1,6 +1,5 @@
 ---
 title: Haberdashery Design
-date: 2025-02-25
 description: A long-haul trucker in Milwaukee named Cletus
 tags:
   - Haberdashery

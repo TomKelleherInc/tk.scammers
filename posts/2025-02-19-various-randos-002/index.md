@@ -1,6 +1,5 @@
 ---
 title: Various Randos \#2
-date: 2025-02-19
 description: (A smattering of brief encounters)
 tags:
   - diana

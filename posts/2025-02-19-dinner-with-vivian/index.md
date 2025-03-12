@@ -1,10 +1,8 @@
 ---
-title: Hello, I'm Diana
-date: 2025-02-17
-description: Sparks from the open pit tin mine
+title: Dinner with Vivian
+description: Drive the Peucedes.
 tags:
-  - diana
-
+  - vivian
 
 ---
 
@@ -16,4 +14,4 @@ tags:
 {% figure "./images/004.jpg", "", "", false %}
 {% figure "./images/005.jpg", "", "", false %}
 {% figure "./images/006.jpg", "", "", false %}
-
+{% figure "./images/007.jpg", "", "", false %}

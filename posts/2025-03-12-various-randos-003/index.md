@@ -92,9 +92,6 @@ Just a flight of fancy triggered from something my college friends and I were di
 {% figure "./images/crisco-mishaps-001.jpg", "", "", false %}
 {% figure "./images/crisco-mishaps-002.jpg", "", "", false %}
 
-<hr />
-
-{% figure "./images/book-about-balance.jpg", "", "", false %}
 
 
 <hr />

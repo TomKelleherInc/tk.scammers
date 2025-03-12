@@ -1,6 +1,5 @@
 ---
 title: That Toenail Thing
-date: 2025-02-26
 description: Give me a few minutes to crawl out of this and explain to the police.
 tags:
   - toenail
