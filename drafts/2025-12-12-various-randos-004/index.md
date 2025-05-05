@@ -13,5 +13,9 @@ tags:
 
 <hr />
 
+{% figure "./images/yeah-screw-you.png", "", "", false %}
+
+<hr />
+
 
 
