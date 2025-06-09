@@ -13,6 +13,9 @@ This is just some WhatsApp dialog with my family.  The players are:
 * Aidan, oldest son, in college in Indiana
 * Devin, middle son, also in college in Indiana
 * Wrenn, 13yo daughter at this point, and rapidly becoming a fierce player in our online shenanigans
+* Messages in green on the right are me
+
+<hr />
 
 {% figure "./images/001.jpg", "", "", false %}
 {% figure "./images/002.jpg", "", "", false %}
