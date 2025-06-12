@@ -5,8 +5,8 @@
   "language": "en",
   "paginationSize": 12,
   "favicon": "/assets/images/favicon.png",
-  "description": "My conversations with scammers",
-  "tags": ["scammer", "scambits", "scambles", "kelleher", "tom kelleher", "tkellher.com"],
+  "description": "A record of my dialogs with online scammers. I see how absurd I can make the conversation, until they bail. I also try not to be mean-spirited. I hope you find them entertaining.",
+  "tags": ["scammer", "scambits", "kelleher", "tom kelleher", "tkelleher.com"],
   "feed": {
     "path": "/feed.xml"
   },
