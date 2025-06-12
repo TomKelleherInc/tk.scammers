@@ -7,7 +7,7 @@ permalink: "/"
 
 <h3>Okay, what do we have here?</h3>
 
-I have fun with scammers.  
+I'm Tom Kelleher.  I have fun with scammers.  
 
 I've always loved absurdist humor.  Monty Python to Douglas Adams and so on.  My college buddy Steve
 and I used to break each other up with non sequiturs and stentorian lunacy on the regular, and I never
@@ -23,3 +23,9 @@ play along just as they'd hoped.  I just keep coloring outside the lines.
 I see how peculiar I can get before they bail on me.
 
 <a href="/scams/">Enjoy...!</a>
+
+
+<h5>
+Tom Kelleher
+</h5>
+
