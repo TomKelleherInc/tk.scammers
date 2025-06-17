@@ -13,5 +13,9 @@ tags:
 
 <hr />
 
+{% figure "./images/we-are-married.png", "", "", false %}
+
+<hr />
+
 
 
