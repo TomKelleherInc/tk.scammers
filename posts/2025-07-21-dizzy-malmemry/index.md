@@ -2,7 +2,7 @@
 title: My name is Dizzy Malmemry
 description: Anny, have you ever forgotten your own name?
 tags:
-  - Resplendent
+  - Dizzy
 
 
 ---
