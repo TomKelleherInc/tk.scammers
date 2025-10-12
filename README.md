@@ -160,4 +160,4 @@ After the rsync, it's still worth doing a git diff to see what's changed, or if 
 - [Shortcode with image gallery](https://www.markllobrera.com/posts/eleventy-building-image-gallery-photoswipe/)
 - [Customizing markdown-it](https://publishing-project.rivendellweb.net/customizing-markdown-it/)
 
-
+npm

@@ -16,12 +16,12 @@ So I aimed to convince at least one of them that there were two of me, in two pa
 One conversation runs down the right, the other on the left.
 
 
-{% figure "./images/tale-of-two-toms-001-png", "", "", false %}
+{% figure "./images/tale-of-two-toms-001.png", "", "", false %}
  
-{% figure "./images/tale-of-two-toms-002-png", "", "", false %}
+{% figure "./images/tale-of-two-toms-002.png", "", "", false %}
 
-{% figure "./images/tale-of-two-toms-003-png", "", "", false %}
+{% figure "./images/tale-of-two-toms-003.png", "", "", false %}
 
-{% figure "./images/tale-of-two-toms-004-png", "", "", false %}
+{% figure "./images/tale-of-two-toms-004.png", "", "", false %}
 
-{% figure "./images/tale-of-two-toms-005-png", "", "", false %}
+{% figure "./images/tale-of-two-toms-005.png", "", "", false %}

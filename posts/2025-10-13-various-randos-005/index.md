@@ -17,7 +17,6 @@ tags:
 
 <hr />
 
-
 {% figure "./images/cranium-and-imodium.png", "", "", false %}
 
 <hr />
@@ -42,19 +41,17 @@ tags:
 
 <hr />
 
-{% figure "./images/like-fig-newtons.jpg", "", "", false %}
+{% figure "./images/just-trying-to-make-a-living.jpg", "", "", false %}
 
 <hr />
 
-{% figure "./images/", "need-my-field.png", "", false %}
+
+{% figure "./images/theyd-miss-it.png", "", "", false %}
 
 <hr />
 
-{% figure "./images/", "warped-o-rings.jpg", "", false %}
+{% figure "./images/been-to-oshkosh.jpg", "", "", false %}
 
 <hr />
 
-{% figure "./images/", "we-are-married.png", "", false %}
-
-
-
+{% figure "./images/we-are-married.png", "", "", false %}
